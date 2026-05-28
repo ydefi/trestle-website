@@ -113,6 +113,6 @@ NEXT_PUBLIC_BICONOMY_API_URL=https://api.biconomy.io
 - **Website**: [https://trestle.website](https://trestle.website)
 - **GitHub**: [Trestle Protocol](https://github.com/Trestle-DeFi)
 - **Discord**: [Trestle Protocol](https://discord.gg/4dCCvnJYGT)
-- **Telegram**: [Trestle Pro](https://t.me/TrestleDeFi)
+- **Telegram**: [Trestle ](https://t.me/TrestleDeFi)
 - **Email**: contact@trestle.website
 
