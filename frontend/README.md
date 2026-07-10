@@ -5,7 +5,6 @@ Main public-facing landing page for Trestle DeFi. Built with Next.js and wagmi +
 
 **Legal Disclaimer:** Trestle DeFi (trestle.website) is an independent Web3 ecosystem operating exclusively on the Polygon network. We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Celestia-based "Trestle Protocol" bridge project or any of its subsidiaries. 
 
-
 ## Sections
 
 - **Marketing:** Hero, Features, Tokens, Roadmap, CTA

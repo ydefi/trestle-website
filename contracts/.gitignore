@@ -1,0 +1,23 @@
+# Hardhat
+artifacts/
+cache/
+typechain-types/
+
+# Environment
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+coverage.json
+
+# Tests
+test/
+
+# OS
+.DS_Store
