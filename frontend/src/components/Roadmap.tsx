@@ -16,8 +16,8 @@ const phases = [
     items: [
       { text: "Decentralized marketplace live", status: "deploying" as const },
       { text: "Fractional RWA tokenization", status: "pending" as const },
-      { text: "Chainlink oracle integration", status: "pending" as const },
-      { text: "Multi-chain expansion", status: "pending" as const },
+      { text: "Chainlink oracle integration", status: "completed" as const },
+      { text: "Multi-chain expansion", status: "completed" as const },
     ],
   },
   {
@@ -38,7 +38,7 @@ const phases = [
     items: [
       { text: "Cross-chain bridges", status: "pending" as const },
       { text: "Institutional RWA partnerships", status: "pending" as const },
-      { text: "AI-powered freelancer tools", status: "pending" as const },
+      { text: "AI-powered freelancer tools", status: "completed" as const },
       { text: "Self-sustaining economic flywheel", status: "pending" as const },
     ],
   },
